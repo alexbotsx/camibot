@@ -32,8 +32,8 @@ const handler = async (m, { conn, usedPrefix }) => {
   const info = ` ${tradutor.texto1[0]}
 
   ${tradutor.texto1[1]} 
-  ${tradutor.texto1[2]} +51992621601
-  ${tradutor.texto1[3]} https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
+  ${tradutor.texto1[2]} +56933051937
+  ${tradutor.texto1[3]} https://www.instagram.com/clan_space_blank?igsh=Ymh3aXBzc2V5ZHE4
 
   ${tradutor.texto1[4]} ${rtime}
   ${tradutor.texto1[5]} ${uptime}
@@ -63,7 +63,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY` },
+    document: { url: `https://www.instagram.com/clan_space_blank?igsh=Ymh3aXBzc2V5ZHE4` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -72,13 +72,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+        mediaUrl: "https://www.instagram.com/clan_space_blank?igsh=Ymh3aXBzc2V5ZHE4",
         mediaType: 2,
         previewType: "pdf",
-        title: "Readz Aleizn",
+        title: "𝗣𝗔𝗡𝗖𝗜𝗧𝗢",
         body: tradutor.texto2,
         thumbnail: imagen1,
-        sourceUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+        sourceUrl: "https://www.instagram.com/clan_space_blank?igsh=Ymh3aXBzc2V5ZHE4",
       },
     },
     caption: info,

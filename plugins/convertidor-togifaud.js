@@ -1,4 +1,4 @@
-/* 𝐂𝐑𝐄𝐀𝐃𝐎 𝐏𝐎𝐑 https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY */
+/* 𝐂𝐑𝐄𝐀𝐃𝐎 𝐏𝐎𝐑 https://www.instagram.com/clan_space_blank?igsh=Ymh3aXBzc2V5ZHE4 */
 
 
 const handler = async (m, {conn, usedPrefix, command}) => {

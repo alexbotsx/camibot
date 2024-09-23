@@ -7,7 +7,7 @@
 /*     ◉ Número: wa.me/51993966345                       */
 /*                                                       */
 /*     —◉ FT:                                            */
-/*     ◉ BrunoSobrino (https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY)  */
+/*     ◉ BrunoSobrino (https://www.instagram.com/clan_space_blank?igsh=Ymh3aXBzc2V5ZHE4)  */
 /*                                                       */
 /* [❗]                      [❗]                      [❗] */
 /* -------------------------------------------------------*/

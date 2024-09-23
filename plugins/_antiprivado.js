@@ -1,4 +1,4 @@
-// Readz Aleizn@BrunoSobrino - _antiprivado.js
+// 𝗣𝗔𝗡𝗖𝗜𝗧𝗢@BrunoSobrino - _antiprivado.js
 
 export async function before(m, {conn, isAdmin, isBotAdmin, isOwner, isROwner}) {
     const datas = global

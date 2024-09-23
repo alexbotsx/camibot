@@ -3,7 +3,7 @@
         [ ❗ ] CREDITOS - NO MODIFICAR [ ❗ ]
 
            Codigo hecho por @BrunoSobrino
-       Github: https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
+       Github: https://www.instagram.com/clan_space_blank?igsh=Ymh3aXBzc2V5ZHE4
        
        Nota: Solo hay disponibles efectos en
        ingles, por lo que el texto en otros
